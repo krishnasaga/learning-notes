@@ -1,4 +1,4 @@
-# When you encounter unkinness 
+# When you encounter unkindness 
 
 "No matter what anyone says or does, my task is to be good."
 
