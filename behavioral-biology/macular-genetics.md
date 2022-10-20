@@ -1,6 +1,9 @@
-## Micro mutations
 
-## Macro mutations
+Microevolution is about the proteins; macroevolution is about the networks.
+
+## Microevolution
+
+## Macroevolution
 
 From ROBERT SAPOLSKY notes
 
