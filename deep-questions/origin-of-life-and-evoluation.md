@@ -1,8 +1,8 @@
-## How life on earth began ?
+# How life on earth began ?
+Transition from non-living to living entities
 
-**Formation of life**
-- Transition from non-living to living entities
-
+## Explanation 1 
+Abiogenesis
 
 ### formation of RNA
 
