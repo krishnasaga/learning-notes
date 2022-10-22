@@ -1,3 +1,14 @@
+# Basics 
+
+## Central Dogma of life
+
+![image](https://user-images.githubusercontent.com/13312112/197333715-bb0413ea-5594-4d91-8701-fed5b3a8e77a.png)
+
+## Exceptions of RNA
+A known exception is retroviruses, which transcribe RNA into DNA through the use of a special enzyme called reverse transcriptase has resulted in an exception to the central dogma; RNA → DNA → RNA → protein.
+
+
+# Evoluation 
 
 Microevolution is about the proteins; macroevolution is about the networks.
 
