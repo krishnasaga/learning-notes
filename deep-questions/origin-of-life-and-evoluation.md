@@ -1,6 +1,8 @@
 # How life on earth began ?
 Transition from non-living to living entities
 
+In 1944, Austrian physicist Erwin Schrödinger defined life as that which resists decaying to disorder and equilibrium. This definition relates to the second law of thermodynamics, which states that closed systems will naturally gain entropy, or disorder, over time.
+
 ## Explanation 1 
 Abiogenesis
 
