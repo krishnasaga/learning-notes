@@ -6,6 +6,8 @@ In 1944, Austrian physicist Erwin Schrödinger defined life as that which resist
 ![image](https://user-images.githubusercontent.com/13312112/197473279-dd290e1c-85d6-4067-91d4-93c67a33f9b7.png)
 Image credict https://www.flickr.com/photos/martinlabar/5056851542
 
+https://physics.stackexchange.com/questions/672861/what-is-order-and-disorder-in-entropy
+
 ## Explanation 1 
 Abiogenesis
 
