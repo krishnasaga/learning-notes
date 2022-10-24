@@ -3,6 +3,9 @@ Transition from non-living to living entities
 
 In 1944, Austrian physicist Erwin Schrödinger defined life as that which resists decaying to disorder and equilibrium. This definition relates to the second law of thermodynamics, which states that closed systems will naturally gain entropy, or disorder, over time.
 
+![image](https://user-images.githubusercontent.com/13312112/197473279-dd290e1c-85d6-4067-91d4-93c67a33f9b7.png)
+Image credict https://www.flickr.com/photos/martinlabar/5056851542
+
 ## Explanation 1 
 Abiogenesis
 
