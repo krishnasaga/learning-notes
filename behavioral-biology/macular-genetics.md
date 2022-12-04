@@ -2,6 +2,7 @@
 
 ## Central Dogma of life
 
+![image](https://user-images.githubusercontent.com/13312112/205510196-959337d6-9ef2-4830-a2dd-95a33877b50e.png)
 
 ## Exceptions of central dogma theroy
 A known exception is retroviruses, which transcribe RNA into DNA through the use of a special enzyme called reverse transcriptase has resulted in an exception to the central dogma; RNA → DNA → RNA → protein.
