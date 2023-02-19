@@ -1,6 +1,6 @@
 # Power vs Virtues
 
-I like to exploring this by looking at views of some great people in history and presnt world
+I like to start exploring this by going through views of some great people in history and presnt world
 
 ## Dante Alighieri 
 
