@@ -94,6 +94,9 @@ Transcription factors are proteins involved in the process of converting, or tra
 - Understanding transcription factors is crucial for the proper functioning of living organisms and has implications for medicine and biotechnology.
 
 
+Video explaining transcription factors with estrogen harome example https://www.youtube.com/watch?v=t4-lCmbWO0g
+
+
 ### Splicing enzymes
 The RNA-splicing endonuclease is an evolutionarily conserved enzyme responsible for the excision of introns from nuclear transfer RNA (tRNA) and all archaeal RNAs.
 
