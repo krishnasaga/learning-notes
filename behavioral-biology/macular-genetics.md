@@ -2,6 +2,24 @@
 
 ## Central Dogma of life
 
+The central dogma of life is a fundamental concept in molecular biology that describes the flow of genetic information in living organisms. The central dogma states that genetic information flows from DNA to RNA to proteins in a unidirectional manner. Here are some key points that elaborate on this concept:
+
+- DNA (deoxyribonucleic acid) is a double-stranded molecule that contains the genetic information for an organism. DNA is organized into genes, which are segments of DNA that code for specific proteins.
+
+- The first step in the central dogma is transcription, which is the process by which a gene is copied from DNA to RNA (ribonucleic acid). During transcription, an enzyme called RNA polymerase reads the DNA sequence of a gene and synthesizes a complementary RNA copy.
+
+- The RNA molecule that is synthesized during transcription is called messenger RNA (mRNA). mRNA serves as a template for protein synthesis and carries the genetic information from the DNA to the ribosomes, which are the cellular organelles that synthesize proteins.
+
+- The second step in the central dogma is translation, which is the process by which the genetic information in mRNA is used to synthesize a protein. During translation, the mRNA is read by ribosomes, which assemble amino acids into a chain to form a protein.
+
+- The sequence of nucleotides in DNA determines the sequence of nucleotides in mRNA, which in turn determines the sequence of amino acids in a protein. The genetic code is a set of rules that specifies how the sequence of nucleotides in mRNA is translated into the sequence of amino acids in a protein.
+
+- The central dogma is considered "central" because it describes the basic mechanism by which genetic information is transferred from DNA to proteins, which are the molecular building blocks of life. This process is essential for the growth, development, and function of all living organisms.
+
+- While the central dogma provides a basic framework for understanding the flow of genetic information, it is important to note that there are exceptions to this process. For example, some viruses use RNA as their genetic material, and some RNA molecules can have catalytic activity and function as enzymes.
+
+- Overall, the central dogma of life is a foundational concept in molecular biology that explains how genetic information is transferred from DNA to proteins, and how this process underlies the development, growth, and function of living organisms.
+
 ![image](https://user-images.githubusercontent.com/13312112/205510196-959337d6-9ef2-4830-a2dd-95a33877b50e.png)
 
 ## Exceptions of central dogma theroy
