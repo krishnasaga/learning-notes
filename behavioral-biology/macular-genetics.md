@@ -34,6 +34,24 @@ One mechanism of microevolution in DNA protein synthesis is the accumulation of 
 
 ## Macroevolution
 
+This statement highlights the important role of microevolution in shaping the regulation and expression of genes. Here are some further notes that expand upon this idea:
+
+- Promoters are regions of DNA that signal to the transcriptional machinery where to begin transcribing a particular gene. Changes in the DNA sequence of a promoter can alter its binding affinity for transcription factors, which in turn can affect the level of gene expression.
+
+- Transcription factors are proteins that bind to specific DNA sequences and regulate the transcription of nearby genes. Changes in the DNA sequence of a gene can alter the binding affinity of transcription factors, which can activate or repress the transcription of the gene.
+
+- Splicing enzymes are proteins that catalyze the removal of introns and the joining of exons in pre-mRNA to create mature mRNA. Changes in the splicing machinery can result in alternative splicing, which can generate different mRNA isoforms that encode different protein products.
+
+- Changes in transcription factors or splicing enzymes can be caused by mutations in the genes that encode them or by changes in their expression or activity levels. These changes can alter the regulation and expression of genes and generate new protein isoforms with novel functions.
+
+- Little changes in DNA sequence or gene expression can have big results, especially when those changes cascade through regulatory networks. A small change in a promoter sequence can alter the binding of a transcription factor, which can activate or repress the expression of multiple downstream genes. - - - Similarly, changes in splicing enzymes can affect the alternative splicing of multiple genes, generating new protein isoforms with distinct functions.
+
+- Microevolutionary changes in gene regulation and expression can have important consequences for the evolution of species and the development of diseases. 
+
+- For example, changes in the expression or activity of transcription factors can lead to the evolution of novel traits or the development of cancer, while changes in splicing can cause genetic disorders such as cystic fibrosis or beta-thalassemia.
+
+- Overall, microevolutionary changes in gene regulation and expression can have far-reaching effects on the structure and function of proteins and on the phenotype of organisms.
+
 From ROBERT SAPOLSKY notes
 
 As promoters change, transcription factors change. Splicing enzymes can change their behavior and create entirely new proteins. Changes in transcription factors can activate entirely different gene sequences. Little changes can have big results, especially when those changes cascade.
