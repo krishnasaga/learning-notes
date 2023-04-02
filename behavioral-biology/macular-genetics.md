@@ -34,6 +34,11 @@ One mechanism of microevolution in DNA protein synthesis is the accumulation of 
 
 ## Macroevolution
 
+From ROBERT SAPOLSKY notes
+
+"As promoters change, transcription factors change. Splicing enzymes can change their behavior and create entirely new proteins. Changes in transcription factors can activate entirely different gene sequences. Little changes can have big results, especially when those changes cascade."
+
+
 This statement highlights the important role of microevolution in shaping the regulation and expression of genes. Here are some further notes that expand upon this idea:
 
 - Promoters are regions of DNA that signal to the transcriptional machinery where to begin transcribing a particular gene. Changes in the DNA sequence of a promoter can alter its binding affinity for transcription factors, which in turn can affect the level of gene expression.
@@ -52,9 +57,6 @@ This statement highlights the important role of microevolution in shaping the re
 
 - Overall, microevolutionary changes in gene regulation and expression can have far-reaching effects on the structure and function of proteins and on the phenotype of organisms.
 
-From ROBERT SAPOLSKY notes
-
-As promoters change, transcription factors change. Splicing enzymes can change their behavior and create entirely new proteins. Changes in transcription factors can activate entirely different gene sequences. Little changes can have big results, especially when those changes cascade.
 
 ### Transcription factors
 Transcription factors are proteins involved in the process of converting, or transcribing, DNA into RNA.
