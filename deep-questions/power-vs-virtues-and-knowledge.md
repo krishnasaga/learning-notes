@@ -33,3 +33,16 @@ Socrates believed that true wisdom involved recognizing the limits of one's know
 In Socratic philosophy, the process of gaining knowledge and understanding involved questioning assumptions, exploring contradictions, and seeking out new perspectives. Socrates' famous method of inquiry, which involved asking questions to expose flaws in an argument or idea, was designed to encourage critical thinking and self-reflection.
 
 Overall, Socrates' view of wisdom challenges us to be humble in our pursuit of knowledge, and to recognize that there is always more to learn and understand. By embracing the idea that we know nothing, we can remain open to new ideas and perspectives, and continue to grow and develop as individuals.
+
+
+### Aung San Suu Kyi
+
+"It is not power that corrupts, but fear. Fear of losing power corrupts those who wield it and fear of the scourge of power corrupts those who are subject to it." - Aung San Suu Kyi
+
+This quote by Aung San Suu Kyi, a Burmese politician and Nobel Peace Prize laureate, highlights the corrupting influence of fear on individuals and society.
+
+According to Suu Kyi, it is not power itself that is corrupting, but rather the fear that comes with it. Those who hold power may become corrupted by their fear of losing it, leading them to act in ways that are unjust or unethical. At the same time, those who are subject to power may become corrupted by their fear of its consequences, leading them to submit to or even support unjust or oppressive systems.
+
+Suu Kyi's quote suggests that fear is a powerful force that can distort our perceptions and lead us to act against our own interests and values. By recognizing the role of fear in corrupting individuals and society, we can work to overcome its negative effects and build a more just and equitable world.
+
+Overall, Suu Kyi's quote challenges us to examine the relationship between power, fear, and corruption, and to strive for a world in which power is wielded responsibly and fear is not allowed to distort our actions and beliefs.
