@@ -6,10 +6,11 @@ Virtues, on the other hand, are qualities of character or behavior that are cons
 
 While power can be used to achieve certain goals or objectives, virtues are often seen as more important for creating a just and harmonious society. People who possess virtues are often more respected and admired than those who wield power without regard for morality or ethics. Ultimately, virtues are considered to be a more enduring and meaningful source of personal and social well-being than power.
 
+## Exploring the views of great people in history
 
 I like to start exploring this by going through views of some great people in history and presnt world
 
-## Dante Alighieri 
+### Dante Alighieri 
 
 "Consider your origins: you were not made to live as brutes, but to follow virtue and knowledge."
 
